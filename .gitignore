@@ -1,4 +1,5 @@
 **__pycache__
 **.env
 /venv
-/llama-2-7b-chat.ggmlv3.q8_0.bin
+/models/*
+/vectorstore/*
